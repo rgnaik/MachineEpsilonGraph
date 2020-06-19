@@ -39,7 +39,7 @@ function find_epsilon() {
             y: eps
         });
     
-        /*if (dps.length > dataLength) {
+        /*if (dps.length > dataLength) {	This was for limiting the # of points that could appear at once so ignore this
             dps.shift();
         }*/
     
